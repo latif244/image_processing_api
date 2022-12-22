@@ -1,0 +1,19 @@
+{
+  "name": "imageprocessingapinew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "dependencies": {
+    "jimp": "^0.16.2",
+    "prettier": "^2.8.1",
+    "sharp": "^0.31.3"
+  }
+}
